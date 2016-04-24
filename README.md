@@ -1,4 +1,4 @@
-# random-gif
+# show-a-gif
 
 lambda function to get a random file out of an s3 bucket
 
